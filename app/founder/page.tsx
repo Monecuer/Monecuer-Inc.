@@ -1,7 +1,7 @@
 import FounderContent from "./FounderContent";
 
 export const metadata = {
-  title: "Founder — Elshaddai Anesu Mugugu | Monecuer Inc.",
+  title: "Founder — Elshaddai Anesu Paradise | Monecuer Inc.",
   description:
     "Meet Elshaddai Anesu Mugugu, Software Engineer and Founder of Monecuer Inc., building innovative AI, Cybersecurity, Cloud, SaaS, and Web solutions from Zimbabwe.",
   openGraph: {
