@@ -20,7 +20,7 @@ export default function FounderContent() {
           <div className="flex flex-col md:flex-row items-center gap-6 md:gap-10">
             <Image
               src="/founder.jpg"
-              alt="Founder - Elshaddai Anesu Mugugu"
+              alt="Founder - Elshaddai Anesu Paradise"
               width={180}
               height={180}
               className="rounded-full shadow-lg object-cover"
@@ -28,7 +28,7 @@ export default function FounderContent() {
 
             <div className="flex flex-col items-center md:items-start">
               <h1 className="text-2xl sm:text-3xl font-bold mb-2">
-                Elshaddai Anesu Mugugu
+                Elshaddai Anesu Paradise
               </h1>
               <p className="text-blue-600 dark:text-blue-400 text-sm sm:text-base font-medium">
                 Founder & Software Engineer — Monecuer Inc.
